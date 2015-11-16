@@ -18,15 +18,21 @@
 
 ### 下载 Download
 
-请在 [Download](https://github.com/Linrstudio/WebFont-Helper/blob/master/download/WebFont-Helper-1.0.0.zip?raw=true 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/WebFont-Helper/blob/master/download/WebFont-Helper-1.1.0.zip?raw=true 'Download') 下载
 
 ### 预览 Preview
 <img src="https://github.com/Linrstudio/WebFont-Helper/blob/master/preview.png?raw=true" />
+
+### 更新日志 Change Log
+v1.1.0
+1. 采用 eotfast 生成 eot，文件更小；
+2. 添加选项，用于生成 woff2，hta（或 html）预览文件，不生成 svg；
+3. bugfix
 
 #### 感谢 Thanks
 
 程序中使用的以下开源程式，并进行了部分改动。版权归原作者，并特此感谢：
 
-* FontForge
+* FontForge http://fontforge.github.io/en-US/
 * ttf2eot.exe https://code.google.com/p/ttf2eot/
 * subset.py Google Inc.
