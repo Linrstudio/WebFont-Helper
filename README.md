@@ -18,12 +18,16 @@
 
 ### 下载 Download
 
-请在 [Download](https://github.com/Linrstudio/WebFont-Helper/blob/master/download/WebFont-Helper-1.1.0.zip?raw=true 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/WebFont-Helper/blob/master/download/WebFont-Helper-1.5.0.zip?raw=true 'Download') 下载
 
 ### 预览 Preview
 <img src="https://github.com/Linrstudio/WebFont-Helper/blob/master/preview.png?raw=true" />
 
 ### 更新日志 Change Log
+v1.5.0
+1. 添加文本去重、转繁体功能；
+2. bugfix：解决源字体路径不支持中文问题；
+
 v1.1.0
 1. 采用 eotfast 生成 eot，文件更小；
 2. 添加选项，用于生成 woff2，hta（或 html）预览文件，不生成 svg；
